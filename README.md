@@ -21,7 +21,7 @@ My expertise spans from low-level system programming to building scalable cloud-
       <p><em>Architecting high-performance solutions and delving deep into memory management with foundational languages.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=cpp,c,linux,arch,ubuntu" />
+          <img src="https://skillicons.dev/icons?i=c,cpp,linux,arch,ubuntu" />
         </a>
       </p>
     </td>
@@ -30,7 +30,7 @@ My expertise spans from low-level system programming to building scalable cloud-
       <p><em>Building resilient and scalable backend services and crafting clean, RESTful APIs.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,nginx,postman" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,js,postman" />
         </a>
       </p>
     </td>
@@ -46,11 +46,11 @@ My expertise spans from low-level system programming to building scalable cloud-
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐧 OS & Development Environment</h3>
+      <h3>🐧 Development Environment</h3>
       <p><em>My environment is built on the Linux ecosystem (Ubuntu, Kali, Arch). I use containerization and version control for reproducible workflows.</em></p>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,bash,kali" />
+          <img src="https://skillicons.dev/icons?i=git,github,vscode" />
         </a>
       </p>
     </td>
