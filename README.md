@@ -1,9 +1,11 @@
 <div align="center">
   <h1>
-    Hi there, I'm Sahil 👋
+  Welcome 👋
   </h1>
+  <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/11351c0b-7981-44b6-bca2-d89e6ce57541" />
+
   <p>
-    C++ Backend Developer
+    Welcome to the world of Linux
   </p>
 </div>
 
